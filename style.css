@@ -4,7 +4,7 @@ html, body{
   height: 100%;
   width: 100%;
   font-family: 'Poppins', sans-serif;
-  color:#222;
+  color:#000;
 }
 .navbar{
   padding: .8rem;
@@ -20,7 +20,7 @@ html, body{
   font-size: 1.1em !important;
 }
 .carousel-inner img{
-  width: 100%;
+  width: 100%
 }
 .carousel-caption {
   position: absolute;
@@ -39,12 +39,12 @@ html, body{
   padding-bottom: 1rem;
 }
 .btn-primary {
-  background-color: #42A5F5;
-  border:1px solid #cfc2c2
+  background-color: #1E90FF;
+  border:1px solid #FFFFFF
 }
 .btn-primary:hover {
-  background-color: #42A5F5;
-  border: 1px solid #cfc2c2
+  background-color: #87CEEB;
+  border: 1px solid #FFFFFF
 }
 .jumbotron {
   padding: 1rem;
@@ -59,7 +59,7 @@ html, body{
   padding-top: 2rem;
 }
 .welcome hr {
-  border-top: 2px solid #b4b4b4;
+  border-top: 2px solid #87CEEB;
   width: 95%;
   margin-top: .3rem;
   margin-bottom: 1rem;
@@ -112,8 +112,8 @@ html, body{
   color: #d5d5d5;
 }
 footer {
-  background-color: #3f3f3f;
-  color: #d5d5d5;
+  background-color: #1E90FF;
+  color: #ffffff;
   padding-top: 2rem;
 }
 hr.light {
